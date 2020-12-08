@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi
 
-<!--
-**lamualfa/lamualfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **La Ode Muhammad Al Fatih**. Only that. I'm a little lazy to write too many introductions (_It doesn't mean I'm lazy. I just don't want to waste time._). If you really need me, please contact any contact below:
 
-Here are some ideas to get you started:
+- Github: _You are here_
+- Stackoverflow: [La Ode Muhammad Al Fatih](https://stackoverflow.com/users/10861398/laode-muhammad-al-fatih)
+- Quora: [La Ode Muhammad Al Fatih](https://id.quora.com/profile/La-Ode-Muhammad-Al-Fatih)
+- Instagram: [@lamualfa](https://instagram.com/lamualfa)
+- Twitter: [@lamualfa](https://twitter.com/lamualfa)
+- Formal Email: laodemalfatih@lamualfa.com
+- Gmail: lamualfa@gmail.com
+- My Site: https://lamualfa.com (_in process_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks.
