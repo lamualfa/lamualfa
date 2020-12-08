@@ -11,4 +11,6 @@ My name is **La Ode Muhammad Al Fatih**. Only that. I'm a little lazy to write t
 - Gmail: lamualfa@gmail.com
 - My Site: https://lamualfa.com (_in process_)
 
+Do not be afraid. I am a person who likes to joke. So take it easy. Let's have fun.
+
 Thanks.
