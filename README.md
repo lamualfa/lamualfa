@@ -9,7 +9,7 @@ My name is **La Ode Muhammad Al Fatih**. Only that. I'm a little lazy to write t
 - Twitter: [@lamualfa](https://twitter.com/lamualfa)
 - Official Email: laodemalfatih@lamualfa.com (_Formal only_)
 - Gmail: lamualfa@gmail.com
-- My Site: https://lamualfa.com (_In progress)
+- My Site: https://lamualfa.com (_In progress_)
 
 Do not be afraid. I am a person who likes to joke. So take it easy. Let's have fun.
 
