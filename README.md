@@ -7,9 +7,9 @@ My name is **La Ode Muhammad Al Fatih**. Only that. I'm a little lazy to write t
 - Quora: [La Ode Muhammad Al Fatih](https://id.quora.com/profile/La-Ode-Muhammad-Al-Fatih)
 - Instagram: [@lamualfa](https://instagram.com/lamualfa)
 - Twitter: [@lamualfa](https://twitter.com/lamualfa)
-- Formal Email: laodemalfatih@lamualfa.com
+- Official Email: laodemalfatih@lamualfa.com (_Formal only_)
 - Gmail: lamualfa@gmail.com
-- My Site: https://lamualfa.com (_in process_)
+- My Site: https://lamualfa.com (_In progress)
 
 Do not be afraid. I am a person who likes to joke. So take it easy. Let's have fun.
 
