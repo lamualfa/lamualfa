@@ -1,4 +1,4 @@
-# Hi
+# Woi
 
 My name is **La Ode Muhammad Al Fatih**. Only that. I'm a little lazy to write too many introductions (_It doesn't mean I'm lazy. I just don't want to waste time._). If you really need me, please contact any contact below:
 
