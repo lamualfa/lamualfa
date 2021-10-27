@@ -1,4 +1,4 @@
-# Woi
+# Woah
 
 My name is **La Ode Muhammad Al Fatih**.
 
@@ -10,7 +10,7 @@ My name is **La Ode Muhammad Al Fatih**.
 - Twitter: [@lamualfa](https://twitter.com/lamualfa)
 - Gmail: lamualfa@gmail.com
 
-<hr>
+#
 
 [![Stackoverflow](https://stackexchange.com/users/flair/15049272.png)](https://stackoverflow.com/users/10861398/laode-muhammad-al-fatih)
 
