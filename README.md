@@ -1,4 +1,4 @@
-# Woah
+# Woop
 
 My name is **La Ode Muhammad Al Fatih**.
 
@@ -10,9 +10,10 @@ My name is **La Ode Muhammad Al Fatih**.
 - Twitter: [@lamualfa](https://twitter.com/lamualfa)
 - Gmail: lamualfa@gmail.com
 
-![hr-3](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
-
+![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
 [![Stackoverflow](https://stackexchange.com/users/flair/15049272.png)](https://stackoverflow.com/users/10861398/laode-muhammad-al-fatih)
 
 [![Codewars](https://www.codewars.com/users/lamualfa/badges/small)](https://www.codewars.com/users/lamualfa)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=lamualfa&show_icons=true)](https://github.com/lamualfa)
