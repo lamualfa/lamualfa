@@ -16,5 +16,3 @@ My name is **La Ode Muhammad Al Fatih**.
 [![Stackoverflow](https://stackexchange.com/users/flair/15049272.png)](https://stackoverflow.com/users/10861398/laode-muhammad-al-fatih)
 
 [![Codewars](https://www.codewars.com/users/lamualfa/badges/small)](https://www.codewars.com/users/lamualfa)
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=lamualfa&show_icons=true)](https://github.com/lamualfa)
