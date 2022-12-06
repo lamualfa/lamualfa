@@ -8,6 +8,7 @@ My name is **La Ode Muhammad Al Fatih**.
 - Quora: [La Ode Muhammad Al Fatih](https://id.quora.com/profile/La-Ode-Muhammad-Al-Fatih)
 - Instagram: [@lamualfa](https://instagram.com/lamualfa)
 - Twitter: [@lamualfa](https://twitter.com/lamualfa)
+- Telegram [@lamualfa](https://t.me/lamualfa)
 - Email: me@laode.co
 - Website: laode.co (_work in progress_)
 
