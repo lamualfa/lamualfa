@@ -10,7 +10,6 @@ My name is **La Ode Muhammad Al Fatih**.
 - Twitter: [@lamualfa](https://twitter.com/lamualfa)
 - Telegram [@lamualfa](https://t.me/lamualfa)
 - Email: me@laode.co
-- Website: laode.co (_work in progress_)
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
