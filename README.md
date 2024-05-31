@@ -3,6 +3,7 @@
 My name is **La Ode Muhammad Al Fatih**.
 
 - Github: _You are here_
+- LinkedIn [lamualfa](https://www.linkedin.com/in/lamualfa/)
 - Codewars: [lamualfa](https://www.codewars.com/users/lamualfa)
 - Stackoverflow: [La Ode Muhammad Al Fatih](https://stackoverflow.com/users/10861398/laode-muhammad-al-fatih)
 - Quora: [La Ode Muhammad Al Fatih](https://id.quora.com/profile/La-Ode-Muhammad-Al-Fatih)
